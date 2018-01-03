@@ -5,13 +5,13 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version  ruby2.4.0  ,rails 5.1.4
 
-* System dependencies
+* System dependencies  ubuntu 14.04.5
 
 * Configuration
 
-* Database creation
+* Database creation sqlite3  3.8.2
 
 * Database initialization
 
